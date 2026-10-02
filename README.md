@@ -11,7 +11,7 @@
 <h2>Source of the Project</h2>
 <link>https://roadmap.sh/projects/portfolio-website</link>
 <h3>My Own Project Preview</h3>
-<a href="">here</a>
+<a href="https://github.io/seanpark0624-droid/Personal-Portfolio">here</a>
 <h2>How to run the project:</h2>
 <ol>
   <li>Open <code>index.html</code> file and <code>styles.css</code> file.</li>
